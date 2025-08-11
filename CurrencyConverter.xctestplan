@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "09A8D81C-AA56-4786-96C5-C03EC463C75B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CurrencyConverter.xcodeproj",
+      "identifier" : "9DC4D7572E48FA1500363108",
+      "name" : "CurrencyConverter"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:CurrencyConverter.xcodeproj",
+        "identifier" : "9DC4D7BB2E4A172F00363108",
+        "name" : "CurrencyConverterTests"
+      }
+    }
+  ],
+  "version" : 1
+}
